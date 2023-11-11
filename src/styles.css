@@ -1,0 +1,49 @@
+.title
+{
+    width: 100vw;
+    text-align: center;
+}
+
+.contactinfoform, .educationform, .experienceform
+{
+    display: flex;
+    flex-direction:column ;
+    width: 20vw;
+    gap: 3px;
+}
+.CV
+{
+    display: flex;
+    gap: 10vw;
+    
+
+}
+
+.put
+{
+    border: 2px solid black;
+    width: 60vw;
+    
+}
+
+.contactitle
+{
+    margin-top: 0px;
+
+}
+.get
+{
+    padding-left:15px ;
+}
+
+.displayelement
+{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+.at1, .at2, .at3
+{
+ text-align: center;
+}
